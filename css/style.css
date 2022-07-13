@@ -18,8 +18,9 @@ footer {
 .contacts{
     background-color: var(--bs-gray-100);
 }
-.lastselections{
+.lastselections, .spectr{
     background-color: var(--bs-dark);
+    color: white;
 }
 .color2{
     color: #000;
